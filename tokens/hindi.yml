@@ -1,0 +1,21 @@
+^[0-9]+$: INTEGER
+^\+$: ADD
+^-$: SUB
+^\*$: MULT
+^/$: DIVIDE
+^;$: SEMICOLON
+^\($: OPEN_PARENTHESYS
+^\)$: CLOSE_PARENTHESYS
+^==$: EQUAL_TO
+^दिखाओ$: OUTPUT
+^ $: SPACE
+^\n$: NEW_LINE
+^अगर$: IF
+^खत्म$: END
+^साथ$: SPAWN
+^लो$: READ_LINE
+^संख्या$: INTEGER_TYPE
+^शब्द$: STRING_TYPE
+^=$: ASSIGN
+^को$: TO
+^\"$: STRING
